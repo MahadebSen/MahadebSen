@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahadeb Sen</h1>
 <h3 align="center">A passionate React.js developer from India</h3>
-<p align="right"> <img width="50%" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p>
+
+
+
+<img align="right" width="40%" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadebsen&label=Profile%20views&color=0e75b6&style=flat" alt="mahadebsen" /> </p>
 
