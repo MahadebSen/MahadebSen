@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width="40%" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+<img align="right" width="40%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadebsen&label=Profile%20views&color=0e75b6&style=flat" alt="mahadebsen" /> </p>
 
