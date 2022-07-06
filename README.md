@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahadeb Sen</h1>
 <h3 align="center">A passionate React.js developer from India</h3>
+<p align="right"> <img width="50%" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadebsen&label=Profile%20views&color=0e75b6&style=flat" alt="mahadebsen" /> </p>
-
-<p align="right"> <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"> </p>
-
-<p align="lift">
 
 - 🔭 I’m currently working on [my portfolio](https://portfolio-a8fff.web.app/)
 
@@ -18,8 +15,6 @@
 - 📫 How to reach me **mahadebsen237@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/184_ymrC3YyqNvnJkz4lIdga79Rj_Ke_4/view?usp=sharing](https://drive.google.com/file/d/184_ymrC3YyqNvnJkz4lIdga79Rj_Ke_4/view?usp=sharing)
-
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
