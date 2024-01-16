@@ -1,32 +1,108 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+
 <h1 align="center">Hi 👋, I'm Mahadeb Sen</h1>
 <h3 align="center">A passionate React.js developer from India</h3>
 
-
-
-<img align="right" width="50%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" width="35%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadebsen&label=Profile%20views&color=0e75b6&style=flat" alt="mahadebsen" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://portfolio-a8fff.web.app/)
+- 🔭 **I’m currently working -** In [AIMonk Labs Pvt. Ltd.](https://aimonk.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 **I’m currently learning -** [Next.js](https://nextjs.org/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-a8fff.web.app/](https://portfolio-a8fff.web.app/)
+- 👨‍💻 **All of my projects are available Here -** On my [GitHub](https://github.com/MahadebSen) and my [Portfolio](https://portfolio-a8fff.web.app/)
 
-- 💬 Ask me about **react, javascript**
+- 👯 **I’m looking -** To collaborate on open source projects.
 
-- 📫 How to reach me **mahadebsen237@gmail.com**
+- 📄 **Know about my experiences -** My [Resume](https://drive.google.com/file/d/184_ymrC3YyqNvnJkz4lIdga79Rj_Ke_4/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/184_ymrC3YyqNvnJkz4lIdga79Rj_Ke_4/view?usp=sharing](https://drive.google.com/file/d/184_ymrC3YyqNvnJkz4lIdga79Rj_Ke_4/view?usp=sharing)
+- 💬 **Ask me about anything -** [Gmail](mahadebsen237@gmail.com)
+  <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Reach me out</h3>
+<hr/>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mahadebsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadebsen/" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/mahadebsen/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadebsen/" height="30" width="40" />
+    </a>
+</p>
+<br/>
+
+<h3 align="left">💻 Technologies that I know</h3>
+<hr/>
+<br/>
+
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/html.png" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="Icons/css.png" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="Icons/javascript.png" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/typescript.png" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"> 
+        <img src="Icons/python.png" alt="python" width="40" height="40"/> 
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/react.png" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/next.png" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="Icons/redux.png" alt="redux" width="40" height="40"/> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/tailwind.png" alt="tailwind" width="40" height="40"/> 
+    </a>  
+    <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/styled component.png" alt="styled component" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/firebase.png" alt="firebase" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p align="center">
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img src="Icons/graphql.png" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer">
+        <img src="Icons/apollo client.png" alt="express" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p align="center">
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="Icons/node.png" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="Icons/express.png" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="Icons/django.png" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/mongodb.png" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img src="Icons/postgreasql.png" alt="mongodb" width="40" height="40"/> 
+    </a> 
+</p>
+
+<h3 align="left">📈 Current Stats</h3>
+<hr/>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadebsen&show_icons=true&locale=en&layout=compact" alt="mahadebsen" /></p>
 
