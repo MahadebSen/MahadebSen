@@ -20,8 +20,7 @@
 - 💬 **Ask me about anything -** [Gmail](mahadebsen237@gmail.com)
   <br/>
 
-<h3 align="left">📫 Reach me out</h3>
-<hr/>
+<h2 align="left">📫 Reach me out</h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mahadebsen/" target="blank">
@@ -30,8 +29,7 @@
 </p>
 <br/>
 
-<h3 align="left">💻 Technologies that I know</h3>
-<hr/>
+<h2 align="left">💻 Technologies that I know</h2>
 <br/>
 
 <p align="center">
@@ -100,8 +98,7 @@
     </a> 
 </p>
 
-<h3 align="left">📈 Current Stats</h3>
-<hr/>
+<h2 align="left">📈 Current Stats</h2>
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadebsen&show_icons=true&locale=en&layout=compact" alt="mahadebsen" /></p>
