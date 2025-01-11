@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 <h1 align="center">Hi 👋, I'm Mahadeb Sen</h1>
-<h3 align="center">A passionate React.js developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 
 <img align="right" width="35%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
